@@ -1,3 +1,3 @@
-# Master Project
-# Code used during the internship at Nikhef (Amsterdam)
-# Chloe Therreau 
+# Master Project Chloe Therreau 
+Code used during the internship at Nikhef (Amsterdam)
+
